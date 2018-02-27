@@ -106,6 +106,8 @@ greeting.lowercased()
 
 "BONJOUR"
 "bonjour"
+greeting = "what do i do now"
+greeting.uppercased()
 
 var schoolName = "Lightouse Labs"
 
